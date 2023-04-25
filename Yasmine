@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Yasmine</title>
+	<link rel="stylesheet" type="text/css" href="yasmine.css">
+</head>
+<body>
+	<div class="top1"><b>CHRIS GUILLEBEAU</b></div> 
+	<div class="top2"><b>NEXT ABOUT HOME LOGIN UPDATE</b></div>
+	<div class="blackline"></div>
+	<div class="grey">
+
+        <div id="ab"><img class="imgabc" src="abc.jpg"></div> 
+        <div class="t1">The MoneyTree</div>
+        <div class="t2">Chris Guillebeau
+             <p>Il nous est parvenu que nous sommes tous appele</p>
+        </div>
+    </div>
+    <div class="yellow">welcome</div>
+    <div class="color">
+        <div id="h1">BLOC 1</div>
+        <div id="h2">BLOC 2</div>
+        <div id="h3">BLOC 3</div>
+        <div id="h4">BLOC 4</div>
+        <div id="h5">BLOC 5</div>
+    </div>
+    <br>
+    <div class="P1">
+    	<h1> FREE PRIZE INSIDE</h1>
+    	<p>Au niveau du district nous avons reçu plusieurs fois des plaintes contre Gloria et de son mauvais</p>
+    	<input type="text" class="textbox" placeholder="Entertext.">
+    	<input type="text" id="button" name="text" placeholder="textbox">
+    	<div id="m"><input type="submit" id="on" name="submit" value="Envoyer"></div>
+    	<input type="submit" id="of" value="j'aime bien mes parents">
+    	<h2>TOP ARTICLE</h2>
+    </div>
+       <div id="ac"><img class="imga" src="Yas.jpg"></div>
+    <div class="P2">
+        <input type="submit" id="oui" value="UNPEU">
+        <h1>BIG NEWS THE MONEY TREE IS OUT TODAY!!</h1>
+        <div id="orange">
+            By Now,<span style="color:orange;">engagée et vive mais dans le désordre on ne peut rien fait de bon a cause de son</span>
+        </div>
+        <p>Le comportement du CU de Gouache</p>
+        <p>salit l’image du scoutisme ainsi que la mentalité de ses jeûnes, certes elle est motivée, engagée et vive mais dans le désordre</p>
+        <p>Le comportement du CU de Gouache salit l’image du scoutisme ainsi que la mentalité de ses jeûnes, certes elle est motivée, engagée et vive mais dans le désordre on ne peut rien fait de bon comportement du CU de Gouache salit l’image du scoutisme ainsi que la mentalité de ses jeûnes, certes elle est motivée, engagée et vive mais dans le désordre on ne peut rien fait de bon. </p>
+    </div>
+    
+</body>
+</html>.
